@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Tin Tin Tango",
+        "position": 0,
+        "rating": "27"
+    },
+    {
+        "name": "Café Engel",
+        "position": 1,
+        "rating": "27"
+    },
+    {
+        "name": "Kappeli",
+        "position": 2,
+        "rating": "47"
+    },
+    {
+        "name": "Cafe Talo",
+        "position": 3,
+        "rating": "16"
+    },
+    {
+        "name": "Story",
+        "position": 4,
+        "rating": "15"
+    },
+    {
+        "name": "Sunn",
+        "position": 5,
+        "rating": "16"
+    },
+    {
+        "name": "Café Lasipalatsi",
+        "position": 6,
+        "rating": "19"
+    },
+    {
+        "name": "Cargo",
+        "position": 7,
+        "rating": "8"
+    },
+    {
+        "name": "Deli Cafe Maya",
+        "position": 8,
+        "rating": "11"
+    },
+    {
+        "name": "Siltanen",
+        "position": 9,
+        "rating": "17"
+    }
+]
